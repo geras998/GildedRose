@@ -1,7 +1,7 @@
-require './lib/item_behavior'
-require './lib/aged_brie'
-require './lib/backstage'
-require './lib/sulfuras'
+require_relative './item_behavior'
+require_relative './aged_brie'
+require_relative './backstage'
+require_relative './sulfuras'
 
 class Factory
   def self.getProduct(item)

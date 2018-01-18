@@ -1,4 +1,4 @@
-require './factory'
+require './lib/factory'
 
 class GildedRose
 
