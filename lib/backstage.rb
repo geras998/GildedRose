@@ -1,4 +1,4 @@
-require './item_behavior'
+require_relative './item_behavior'
 
 class Backstage < ItemBehavior
   def update(item)

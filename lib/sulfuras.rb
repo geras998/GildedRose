@@ -1,4 +1,4 @@
-require './item_behavior'
+require_relative './item_behavior'
 
 # Sulfuras is a legendary item,
 # never has to be sold or decreases in Quality
